@@ -1,0 +1,4 @@
+- i32 is a 32bit signed integer
+- &'static means static lifetime, lasts duration of program.
+- https://www.codingame.com/playgrounds/365/getting-started-with-rust/primitive-data-types#:~:text=u8%20%3A%20The%208%2Dbit%20unsigned,64%2Dbit%20unsigned%20integer%20type.
+- mut variable means it is mutable and can be changed, is constant without.
